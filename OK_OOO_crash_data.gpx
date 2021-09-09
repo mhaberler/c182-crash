@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Fida csv file ">
+  <metadata>
+    <name>OK_OOO_crash_data.csv</name>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="48.656216" lon="12.49403">
+        <desc>ground speed: 2.7
+true air speed: 5.6
+</desc>
+      </trkpt>
+      <trkpt lat="48.656216" lon="12.49403">
+        <desc>ground speed: 3.1
+true air speed: 5.6
+</desc>
+      </trkpt>
+      <trkpt lat="48.656216" lon="12.49403">
+        <desc>ground speed: 3.6
+true air speed: 14.1
+</desc>
+      </trkpt>
+      <trkpt lat="48.656216" lon="12.49403">
+        <desc>ground speed: 8.7
+true air speed: 14.3
+</desc>
+      </trkpt>
+      <trkpt lat="48.656216" lon="12.494373">
+        <desc>ground speed: 11.7
+true air speed: 10.6
+</desc>
+      </trkpt>
+      <trkpt lat="48.656216" lon="12.494545">
+        <desc>ground speed: 17.3
+true air speed: 13.5
+</desc>
+      </trkpt>
+      <trkpt lat="48.656216" lon="12.494888">
+        <desc>ground speed: 22.7
+true air speed: 15
+</desc>
+      </trkpt>
+      <trkpt lat="48.656216" lon="12.495232">
+        <desc>ground speed: 27.8
+true air speed: 31.6
+</desc>
+      </trkpt>
+      <trkpt lat="48.656387" lon="12.495747">
+        <desc>ground speed: 32.7
+true air speed: 35.2
+</desc>
+      </trkpt>
+      <trkpt lat="48.656387" lon="12.496262">
+        <desc>ground speed: 37.5
+true air speed: 39
+</desc>
+      </trkpt>
+      <trkpt lat="48.656559" lon="12.496948">
+        <desc>ground speed: 42.1
+true air speed: 43.1
+</desc>
+      </trkpt>
+      <trkpt lat="48.656559" lon="12.497635">
+        <desc>ground speed: 46.6
+true air speed: 47.7
+</desc>
+      </trkpt>
+      <trkpt lat="48.656731" lon="12.498665">
+        <desc>ground speed: 52.2
+true air speed: 52.8
+</desc>
+      </trkpt>
+      <trkpt lat="48.656902" lon="12.499352">
+        <desc>ground speed: 55.6
+true air speed: 55.5
+</desc>
+      </trkpt>
+      <trkpt lat="48.656902" lon="12.50021">
+        <desc>ground speed: 58.8
+true air speed: 57.9
+</desc>
+      </trkpt>
+      <trkpt lat="48.65707" lon="12.501068">
+        <desc>ground speed: 60.7
+true air speed: 59.1
+</desc>
+      </trkpt>
+      <trkpt lat="48.65707" lon="12.501926">
+        <desc>ground speed: 58.8
+true air speed: 55.2
+</desc>
+      </trkpt>
+      <trkpt lat="48.657246" lon="12.502613">
+        <desc>ground speed: 52
+true air speed: 47.2
+</desc>
+      </trkpt>
+      <trkpt lat="48.657246" lon="12.503128">
+        <desc>ground speed: 43.5
+true air speed: 40.3
+</desc>
+      </trkpt>
+      <trkpt lat="48.657417" lon="12.503643">
+        <desc>ground speed: 35.5
+true air speed: 32
+</desc>
+      </trkpt>
+      <trkpt lat="48.657417" lon="12.503986">
+        <desc>ground speed: 26.2
+true air speed: 11.3
+</desc>
+      </trkpt>
+      <trkpt lat="48.657417" lon="12.503986">
+        <desc>ground speed: 8
+true air speed: 4.5
+</desc>
+      </trkpt>
+      <trkpt lat="48.657417" lon="12.503986">
+        <desc>ground speed: 2
+true air speed: 4.6
+</desc>
+      </trkpt>
+      <trkpt lat="48.657417" lon="12.503986">
+        <desc>ground speed: 2
+true air speed: 4.6
+</desc>
+      </trkpt>
+      <trkpt lat="48.657417" lon="12.503986">
+        <desc>ground speed: 2
+true air speed: 4.6
+</desc>
+      </trkpt>
+      <trkpt lat="48.657417" lon="12.503986">
+        <desc>ground speed: 2
+true air speed: 4.5
+</desc>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
