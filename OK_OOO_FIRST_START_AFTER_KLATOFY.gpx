@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Fida csv file ">
+  <metadata>
+    <name>OK_OOO_FIRST_START_AFTER_KLATOFY.csv</name>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="48.656216" lon="12.494202">
+        <desc>ground speed: 0
+</desc>
+      </trkpt>
+      <trkpt lat="48.656216" lon="12.494202">
+        <desc>ground speed: 0
+</desc>
+      </trkpt>
+      <trkpt lat="48.656216" lon="12.494202">
+        <desc>ground speed: 0
+</desc>
+      </trkpt>
+      <trkpt lat="48.656216" lon="12.494202">
+        <desc>ground speed: 0
+</desc>
+      </trkpt>
+      <trkpt lat="48.656216" lon="12.494373">
+        <desc>ground speed: 3
+</desc>
+      </trkpt>
+      <trkpt lat="48.656216" lon="12.494373">
+        <desc>ground speed: 9
+</desc>
+      </trkpt>
+      <trkpt lat="48.656216" lon="12.494717">
+        <desc>ground speed: 14,7
+</desc>
+      </trkpt>
+      <trkpt lat="48.656216" lon="12.49506">
+        <desc>ground speed: 20,5
+</desc>
+      </trkpt>
+      <trkpt lat="48.656387" lon="12.495403">
+        <desc>ground speed: 26,2
+</desc>
+      </trkpt>
+      <trkpt lat="48.656387" lon="12.495918">
+        <desc>ground speed: 32
+</desc>
+      </trkpt>
+      <trkpt lat="48.656387" lon="12.496433">
+        <desc>ground speed: 37,3
+</desc>
+      </trkpt>
+      <trkpt lat="48.656559" lon="12.496948">
+        <desc>ground speed: 42,6
+</desc>
+      </trkpt>
+      <trkpt lat="48.656731" lon="12.497978">
+        <desc>ground speed: 50,1
+</desc>
+      </trkpt>
+      <trkpt lat="48.656731" lon="12.498837">
+        <desc>ground speed: 54,6
+</desc>
+      </trkpt>
+      <trkpt lat="48.656902" lon="12.499695">
+        <desc>ground speed: 58,8
+</desc>
+      </trkpt>
+      <trkpt lat="48.65707" lon="12.500553">
+        <desc>ground speed: 62,7
+</desc>
+      </trkpt>
+      <trkpt lat="48.65707" lon="12.501411">
+        <desc>ground speed: 66,1
+</desc>
+      </trkpt>
+      <trkpt lat="48.657246" lon="12.502441">
+        <desc>ground speed: 69,5
+</desc>
+      </trkpt>
+      <trkpt lat="48.657417" lon="12.503471">
+        <desc>ground speed: 71,5
+</desc>
+      </trkpt>
+      <trkpt lat="48.657417" lon="12.503986">
+        <desc>ground speed: 71,8
+</desc>
+      </trkpt>
+      <trkpt lat="48.657589" lon="12.504845">
+        <desc>ground speed: 71,8
+</desc>
+      </trkpt>
+      <trkpt lat="48.657589" lon="12.505875">
+        <desc>ground speed: 71,1
+</desc>
+      </trkpt>
+      <trkpt lat="48.657761" lon="12.506905">
+        <desc>ground speed: 70,3
+</desc>
+      </trkpt>
+      <trkpt lat="48.657932" lon="12.507763">
+        <desc>ground speed: 69,8
+</desc>
+      </trkpt>
+      <trkpt lat="48.658104" lon="12.508793">
+        <desc>ground speed: 70,5
+</desc>
+      </trkpt>
+      <trkpt lat="48.658104" lon="12.509823">
+        <desc>ground speed: 72,3
+</desc>
+      </trkpt>
+      <trkpt lat="48.658276" lon="12.510853">
+        <desc>ground speed: 74,7
+</desc>
+      </trkpt>
+      <trkpt lat="48.658447" lon="12.511883">
+        <desc>ground speed: 76,5
+</desc>
+      </trkpt>
+      <trkpt lat="48.658619" lon="12.512913">
+        <desc>ground speed: 77,5
+</desc>
+      </trkpt>
+      <trkpt lat="48.658791" lon="12.513943">
+        <desc>ground speed: 78,2
+</desc>
+      </trkpt>
+      <trkpt lat="48.658962" lon="12.515144">
+        <desc>ground speed: 81
+</desc>
+      </trkpt>
+      <trkpt lat="48.65913" lon="12.516346">
+        <desc>ground speed: 83,7
+</desc>
+      </trkpt>
+      <trkpt lat="48.659306" lon="12.518063">
+        <desc>ground speed: 86,3
+</desc>
+      </trkpt>
+      <trkpt lat="48.659477" lon="12.519264">
+        <desc>ground speed: 87,3
+</desc>
+      </trkpt>
+      <trkpt lat="48.659649" lon="12.520466">
+        <desc>ground speed: 87,7
+</desc>
+      </trkpt>
+      <trkpt lat="48.659821" lon="12.521667">
+        <desc>ground speed: 88
+</desc>
+      </trkpt>
+      <trkpt lat="48.659821" lon="12.522869">
+        <desc>ground speed: 88
+</desc>
+      </trkpt>
+      <trkpt lat="48.659992" lon="12.523556">
+        <desc>ground speed: 88,1
+</desc>
+      </trkpt>
+      <trkpt lat="48.660164" lon="12.525444">
+        <desc>ground speed: 88,6
+</desc>
+      </trkpt>
+      <trkpt lat="48.660336" lon="12.526646">
+        <desc>ground speed: 89,1
+</desc>
+      </trkpt>
+      <trkpt lat="48.660507" lon="12.527847">
+        <desc>ground speed: 89,6
+</desc>
+      </trkpt>
+      <trkpt lat="48.660679" lon="12.529049">
+        <desc>ground speed: 89,3
+</desc>
+      </trkpt>
+      <trkpt lat="48.660679" lon="12.530251">
+        <desc>ground speed: 88,8
+</desc>
+      </trkpt>
+      <trkpt lat="48.660851" lon="12.531452">
+        <desc>ground speed: 88,2
+</desc>
+      </trkpt>
+      <trkpt lat="48.661022" lon="12.532654">
+        <desc>ground speed: 87,5
+</desc>
+      </trkpt>
+      <trkpt lat="48.661194" lon="12.533855">
+        <desc>ground speed: 86,8
+</desc>
+      </trkpt>
+      <trkpt lat="48.661194" lon="12.534542">
+        <desc>ground speed: 86,6
+</desc>
+      </trkpt>
+      <trkpt lat="48.661366" lon="12.536259">
+        <desc>ground speed: 86,1
+</desc>
+      </trkpt>
+      <trkpt lat="48.661537" lon="12.53746">
+        <desc>ground speed: 85,8
+</desc>
+      </trkpt>
+      <trkpt lat="48.661709" lon="12.538662">
+        <desc>ground speed: 85,7
+</desc>
+      </trkpt>
+      <trkpt lat="48.66188" lon="12.539864">
+        <desc>ground speed: 85,5
+</desc>
+      </trkpt>
+      <trkpt lat="48.662052" lon="12.540894">
+        <desc>ground speed: 85,2
+</desc>
+      </trkpt>
+      <trkpt lat="48.662224" lon="12.54158">
+        <desc>ground speed: 85,2
+</desc>
+      </trkpt>
+      <trkpt lat="48.662567" lon="12.543297">
+        <desc>ground speed: 85,3
+</desc>
+      </trkpt>
+      <trkpt lat="48.662739" lon="12.544327">
+        <desc>ground speed: 85,5
+</desc>
+      </trkpt>
+      <trkpt lat="48.663082" lon="12.545528">
+        <desc>ground speed: 85,5
+</desc>
+      </trkpt>
+      <trkpt lat="48.663254" lon="12.546558">
+        <desc>ground speed: 85,2
+</desc>
+      </trkpt>
+      <trkpt lat="48.663597" lon="12.54776">
+        <desc>ground speed: 84,8
+</desc>
+      </trkpt>
+      <trkpt lat="48.66394" lon="12.54879">
+        <desc>ground speed: 84,3
+</desc>
+      </trkpt>
+      <trkpt lat="48.664284" lon="12.54982">
+        <desc>ground speed: 83,8
+</desc>
+      </trkpt>
+      <trkpt lat="48.664799" lon="12.55085">
+        <desc>ground speed: 83,6
+</desc>
+      </trkpt>
+      <trkpt lat="48.665146" lon="12.551708">
+        <desc>ground speed: 83,3
+</desc>
+      </trkpt>
+      <trkpt lat="48.665485" lon="12.552738">
+        <desc>ground speed: 83
+</desc>
+      </trkpt>
+      <trkpt lat="48.666" lon="12.553768">
+        <desc>ground speed: 82,8
+</desc>
+      </trkpt>
+      <trkpt lat="48.666344" lon="12.554626">
+        <desc>ground speed: 82,5
+</desc>
+      </trkpt>
+      <trkpt lat="48.666859" lon="12.555656">
+        <desc>ground speed: 82,1
+</desc>
+      </trkpt>
+      <trkpt lat="48.667374" lon="12.556515">
+        <desc>ground speed: 82,5
+</desc>
+      </trkpt>
+      <trkpt lat="48.667889" lon="12.557373">
+        <desc>ground speed: 83
+</desc>
+      </trkpt>
+      <trkpt lat="48.668404" lon="12.55806">
+        <desc>ground speed: 84,2
+</desc>
+      </trkpt>
+      <trkpt lat="48.66909" lon="12.558918">
+        <desc>ground speed: 85,8
+</desc>
+      </trkpt>
+      <trkpt lat="48.669605" lon="12.559776">
+        <desc>ground speed: 87,3
+</desc>
+      </trkpt>
+      <trkpt lat="48.670292" lon="12.560635">
+        <desc>ground speed: 88,8
+</desc>
+      </trkpt>
+      <trkpt lat="48.670807" lon="12.561493">
+        <desc>ground speed: 90,2
+</desc>
+      </trkpt>
+      <trkpt lat="48.671837" lon="12.562695">
+        <desc>ground speed: 91,6
+</desc>
+      </trkpt>
+      <trkpt lat="48.672523" lon="12.563553">
+        <desc>ground speed: 91,8
+</desc>
+      </trkpt>
+      <trkpt lat="48.673038" lon="12.564411">
+        <desc>ground speed: 91,8
+</desc>
+      </trkpt>
+      <trkpt lat="48.673725" lon="12.565269">
+        <desc>ground speed: 91,5
+</desc>
+      </trkpt>
+      <trkpt lat="48.674412" lon="12.566128">
+        <desc>ground speed: 91,1
+</desc>
+      </trkpt>
+      <trkpt lat="48.675098" lon="12.566986">
+        <desc>ground speed: 90,8
+</desc>
+      </trkpt>
+      <trkpt lat="48.675613" lon="12.567673">
+        <desc>ground speed: 90,8
+</desc>
+      </trkpt>
+      <trkpt lat="48.6763" lon="12.568531">
+        <desc>ground speed: 90,8
+</desc>
+      </trkpt>
+      <trkpt lat="48.676987" lon="12.569218">
+        <desc>ground speed: 91,1
+</desc>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
